@@ -1,0 +1,38 @@
+# ShopSmart — synthetic e-commerce knowledge base
+# Fictional workshop data; products, prices, contacts, and policies are not real.
+
+STORE OVERVIEW
+ShopSmart is a fictional online store selling home, kitchen, and personal technology products. Customer support is available Monday to Friday, 09:00–17:00 India Standard Time. Customers can email help@shopsmart.example. The support team normally replies within one business day.
+
+SHIPPING POLICY
+Standard delivery costs ₹99 and usually takes 3–5 business days after dispatch. Express delivery costs ₹249 and usually takes 1–2 business days after dispatch. Orders over ₹2,500 qualify for free standard delivery. Delivery estimates are business-day estimates and can be affected by destination PIN code or courier delays. Customers receive a tracking link by email after dispatch.
+
+RETURNS AND REFUNDS
+Unused items in their original packaging can be returned within 14 calendar days of delivery. To start a return, email help@shopsmart.example with the order ID and reason. After the returned item passes inspection, a refund is issued to the original payment method within 5–7 business days. Shipping charges are not refundable unless ShopSmart sent the wrong or a damaged item. Opened personal-care products cannot be returned for hygiene reasons. A return request after the 14-day window is not eligible under the standard return policy.
+
+DAMAGED OR INCORRECT ITEMS
+If an item arrives damaged or the wrong product was delivered, contact support within 48 hours of delivery and include the order ID and clear photos of the item and packaging. ShopSmart will arrange a replacement or refund after reviewing the case. Keep the original packaging until support responds. There is no return shipping charge for an approved damaged-item or incorrect-item claim.
+
+PRODUCT: AEROBREW KETTLE (SKU KB-204)
+The AeroBrew Kettle, SKU KB-204, costs ₹1,899. It has a 1.5-litre stainless-steel body, automatic shut-off, and a one-year limited warranty against manufacturing defects. The warranty does not cover accidental damage, scale buildup, or normal wear. The box includes the kettle, power base, and quick-start guide. It is not dishwasher safe; clean the outside with a damp cloth and descale the interior as needed.
+
+PRODUCT: NESTLIGHT DESK LAMP (SKU NL-110)
+The NestLight Desk Lamp, SKU NL-110, costs ₹1,299. It has three brightness settings, a USB-C power cable, and a two-year limited warranty. The package does not include a wall adapter. The lamp is intended for indoor use and is not water resistant.
+
+PRODUCT: PUREDROP BOTTLE (SKU PD-050)
+The PureDrop Bottle, SKU PD-050, costs ₹499. It is a 750 ml insulated stainless-steel bottle. It is hand-wash only and should not be placed in a microwave. The bottle has a six-month limited warranty against manufacturing defects, excluding dents caused by drops.
+
+PRODUCT: CLOUDREST PILLOW (SKU CR-330)
+The CloudRest Pillow, SKU CR-330, costs ₹1,599. It contains shredded memory foam and has a removable, machine-washable outer cover. The foam insert itself is not machine washable. The pillow is eligible for return under the standard 14-day policy only if unused and in original packaging.
+
+PAYMENTS
+ShopSmart accepts UPI, debit cards, credit cards, and net banking at checkout. Cash on delivery is not available. A payment is considered confirmed only after the checkout page displays an order confirmation and an order ID. If a payment is deducted but no order ID appears, contact support with the payment reference; do not place a duplicate order until support checks the transaction.
+
+ORDER EXAMPLE: SS-48172
+Synthetic example order SS-48172 was placed on 12 October 2026 for one AeroBrew Kettle (KB-204). The order total was ₹1,899 plus ₹99 standard delivery, for a total of ₹1,998. The fictional order status is “dispatched”; the customer should use the tracking link in the dispatch email for delivery updates. This example is static workshop data, not a live order lookup.
+
+GIFT VOUCHERS
+ShopSmart gift vouchers are available in values of ₹500, ₹1,000, and ₹2,000. A voucher is delivered by email after payment confirmation and is valid for 12 months from issue. Gift vouchers cannot be exchanged for cash. If a voucher email does not arrive within 30 minutes, check spam and then email support with the purchase order ID.
+
+PRIVACY AND ACCOUNT HELP
+Customers can request an account email update by contacting support from the email address currently registered to the account. Support may ask for the order ID to verify ownership. Customers should never send passwords, full card numbers, or one-time passwords by email or chat. ShopSmart support will not ask for a one-time password.
